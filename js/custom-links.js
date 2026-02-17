@@ -7,15 +7,15 @@
 
 // ------------------ 自定义链接配置 ------------------
 window.CustomLinks = JSON.stringify([
-  { link: "https://blog.faiz.hidns.co", name: "Blog", icon: "icon-book" },
+  { link: "https://study.mikumod.com/", name: "Study", icon: "icon-book" },
   {
     link: "https://github.com/hetw24",
     name: "Github",
     icon: "icon-github",
   },
   {
-    link: "https://study.mikumod.com/",
-    name: "Study",
+    link: "https://gaokao.yuzhulin.com/",
+    name: "Countdown",
     icon: "icon-hourglass-start",
   },
 ]); // 导航栏的自定义链接 (JSON格式), 新增 icon 字段，请确保 icon值为 iconfont.css 中真实存在的 class
@@ -85,4 +85,5 @@ if (document.readyState === 'loading') {
 } else {
   initCustomLinks();
 }
+
 
