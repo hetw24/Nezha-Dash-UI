@@ -15,7 +15,7 @@ window.CustomLinks = JSON.stringify([
   },
   {
     link: "https://cn.easycattimer.com/",
-    name: "Countdown",
+    name: "Timer",
     icon: "icon-hourglass-start",
   },
 ]); // 导航栏的自定义链接 (JSON格式), 新增 icon 字段，请确保 icon值为 iconfont.css 中真实存在的 class
