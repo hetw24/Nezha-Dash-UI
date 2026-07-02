@@ -14,7 +14,7 @@ window.CustomLinks = JSON.stringify([
     icon: "icon-github",
   },
   {
-    link: "https://countdown.hetw24.dpdns.org/",
+    link: "https://cn.easycattimer.com/",
     name: "Countdown",
     icon: "icon-hourglass-start",
   },
