@@ -7,7 +7,7 @@
 
 // ------------------ 自定义链接配置 ------------------
 window.CustomLinks = JSON.stringify([
-  { link: "https://study.mikumod.com/", name: "Study", icon: "icon-book" },
+  { link: "https://class.hetw24.dpdns.org/", name: "Study", icon: "icon-book" },
   {
     link: "https://github.com/hetw24",
     name: "Github",
